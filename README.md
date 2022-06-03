@@ -12,7 +12,7 @@
 </p>
 
 
-### <========== KNOW MORE ABOUT ME ==========>
+<========== KNOW MORE ABOUT ME ==========>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=RioooNoCounter)
 
