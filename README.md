@@ -2,9 +2,6 @@
   <img src="https://github.com/RioooNoCounter.png" />
 </p>
 
-<p align="center">
-  
-  
   ![](https://visitor-badge.glitch.me/badge?page_id=RioooNoCounter)
   
   
@@ -14,15 +11,26 @@
   
 ## IF BUG PLEASE DM ME ON INSTAGRAM
   
-  <a href="https://instagram.com/rio.caandra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <p align="left">
+<a href="https://instagram.com/rio.caandra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </p>
   
+
 --------
 
 ## INFORMATION
 
-  
-rio-md adalah bot yang awalnya memakai base dari Hisoka-Morou. rio-md is a bot whatsapp using a Baileys library. Kalian boleh menjual/ merecode script ini, asal kasih nama gw lah di Thx to. 
-  <br></h2>
+```bash
+rio-md adalah bot yang awalnya memakai base dari Hisoka-Morou. rio-md is a bot whatsapp using a Baileys library. 
+Kalian boleh menjual/ merecode script ini, asal kasih nama gw lah di Thx to.
+```
+    
+[`BaseOriByDikaArdnt`](https://github.com/DikaArdnt/Hisoka-Morou)
+    
+Kemudian pindahke LexxyOfficial   [`BOTMD`](https://github.com/Lexxy24/BOTMD)
+    
+Lalu saya rapihkan tampilan menu, dan saya tambahkan beberapa fitur di [`riomd-v1`](https://github.com/RioooNoCounter/riomd-v1)
+
   
  -------
 ## HOW TO INSTALL ON HEROKU
