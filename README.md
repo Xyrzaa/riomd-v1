@@ -47,9 +47,7 @@ npm start
   
 ## NOTE
   
-```bash
-  The name of session this bot is [`rio.json`](https://github.com/RioooNoCounter/riomd-v1/rio.json)
-```
+The name of session this bot is [`rio.json`](https://github.com/RioooNoCounter/riomd-v1/rio.json)
   
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
