@@ -1,12 +1,15 @@
-<h1 align="center">Welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="90px"alt=""><br></h1>
+<h1 align="center">Welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="90px"alt="">
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/RioooNoCounter"><img title="Author" src="https://img.shields.io/badge/Author-RioooNoCounter-red.svg?style=for-the-badge&logo=github"></a>
+  </p>
+  </div>
+<h2 align="center">## Information 
 </p>
-## information
-rio-md adalah bot yang awalnya memakai base dari Hisoka-Morrou. rio-md is a bot whatsapp using a Baileys library.
+rio-md adalah bot yang awalnya memakai base dari Hisoka-Morou. rio-md is a bot whatsapp using a Baileys library. Kalian boleh menjual/ merecode script ini, asal kasih nama gw lah di Thx to. 
+  <br></h2>
 <p align="center">
   <img src="https://github.com/RioooNoCounter.png" />
 </p>
