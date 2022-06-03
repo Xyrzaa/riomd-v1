@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RioooNoCounter.png" />
+  <img src="https://github.com/Xyrzaa.png" />
 </p>
 
   ![](https://visitor-badge.glitch.me/badge?page_id=RioooNoCounter)
@@ -35,7 +35,7 @@ Lalu saya rapihkan tampilan menu, dan saya tambahkan beberapa fitur di [`riomd-v
 ## HOW TO INSTALL ON HEROKU
   
 Click the deploy icon below !
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RioooNoCounter/riomd-v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Xyrzaa/riomd-v1)
 
 
 --------
@@ -46,7 +46,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/RioooNoCounter/riomd-v1
+git clone https://github.com/Xyrzaa/riomd-v1
 cd riomd-v1
 npm install
 npm start
@@ -54,7 +54,7 @@ npm start
   
 ## NOTE
   
-The name of session this bot is [`rio.json`](https://github.com/RioooNoCounter/riomd-v1/blob/main/rio.json)
+The name of session this bot is [`rio.json`](https://github.com/Xyrzaa/riomd-v1/blob/main/rio.json)
   
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
