@@ -3071,7 +3071,7 @@ case 'menu': case 'help': case 'woi': {
 Saya *Xyrzaaa*, 
 Bot Ini sedang dalam Pengembangan.
 Bila Ada Bug Chat Owner Ya..
-wa.me/6283871223340?text=Bang+Botnya+Ada+bug
+wa.me/14129688025?text=Bang+Botnya+Ada+bug
 ──────────────
 _░▒███████
 ░██▓▒░░▒▓██
@@ -3380,12 +3380,12 @@ _____░▒▓██
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 838-7122-3340'
+                                    phoneNumber: '+14129688025'
                                 }
                             },{
                                 urlButton: {
                                     displayText: 'Report Bug',
-                                    url: 'wa.me/6283871223340?text=Bang+Botnya+Ada+Bug'
+                                    url: 'https://wa.me/14129688025?text=Bang+Botnya+Ada+Bug'
                                 }
                             }, {
                                 quickReplyButton: {
