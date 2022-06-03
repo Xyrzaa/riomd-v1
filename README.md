@@ -10,6 +10,9 @@
 </p>
 rio-md adalah bot yang awalnya memakai base dari Hisoka-Morou. rio-md is a bot whatsapp using a Baileys library. Kalian boleh menjual/ merecode script ini, asal kasih nama gw lah di Thx to. 
   <br></h2>
+Click the deploy icon below !
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RioooNoCounter/riomd-v1)
 <p align="center">
   <img src="https://github.com/RioooNoCounter.png" />
 </p>
