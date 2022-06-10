@@ -3091,62 +3091,62 @@ _______░▒▓██
 _____░▒▓██
 ──────────────
  ❏ *Group Menu*
- ->linkgroup
- ->ephemeral [option]
- ->setppgc [image]
- ->setname [text]
- ->setdesc [text]
- ->group [option]
- ->editinfo [option]
- ->add @user
- ->kick @user
- ->hidetag [text]
- ->tagall [text]
- ->antilink [on/off]
- ->mute [on/off]
- ->promote @user
- ->demote @user
- ->vote [text]
- ->devote
- ->upvote
- ->cekvote
- ->hapusvote
+->linkgroup
+->ephemeral [option]
+->setppgc [image]
+->setname [text]
+->setdesc [text]
+->group [option]
+->editinfo [option]
+->add @user
+->kick @user
+->hidetag [text]
+->tagall [text]
+->antilink [on/off]
+->mute [on/off]
+->promote @user
+->demote @user
+->vote [text]
+->devote
+->upvote
+->cekvote
+->hapusvote
  
  ❏ *Main Menu*
- ->ping
- ->owner
- ->menu
- ->help
- ->delete
- ->infochat
- ->quoted
- ->listpc
- ->listgc
- ->listonline
- ->speedtest
+->ping
+->owner
+->menu
+->help
+->delete
+->infochat
+->quoted
+->listpc
+->listgc
+->listonline
+->speedtest
  
  ❏ *Owner Menu*
- ->react [emoji]
- ->chat [option]
- ->join [link]
- ->leave
- ->block @user
- ->unblock @user
- ->bcgroup [text]
- ->bcall [text]
- ->setppbot [image]
- ->setexif
- ->setmenu [option]
+->react [emoji]
+->chat [option]
+->join [link]
+->leave
+->block @user
+->unblock @user
+->bcgroup [text]
+->bcall [text]
+->setppbot [image]
+->setexif
+->setmenu [option]
 
  ❏ *Webzone Menu*
- ->playstore
- ->gsmarena
- ->jadwalbioskop
- ->nowplayingbioskop
- ->aminio
- ->wattpad
- ->webtoons
- ->drakor
+->playstore
+->gsmarena
+->jadwalbioskop
+->nowplayingbioskop
+->aminio
+->wattpad
+->webtoons
+->drakor
 
  ❏ *Downloader Menu*
  ->tiktokmp3 [url]
